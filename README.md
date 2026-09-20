@@ -1,19 +1,5 @@
 <!DOCTYPE html>
-<head>
-    <title>
-My Personal Profile
-    </title>
-    </head>
-        <body>
-            <style>
-                h2 {
-                    margin-top:0px;
-                }
-h3{
-    text-align:center;
-}
 
-            </style>
 <h1 style="margin-bottom:0px">Carl Darren Rubia</h1>
 <font face=arial size="1"><h2>IT Student</h2>
 <h2>I want to learn more about web developing</h2></font>
